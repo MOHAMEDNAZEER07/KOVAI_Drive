@@ -8,6 +8,14 @@ there are 5 key insights in the insights.ipynb file.
 **4 .Visualizing all services over time**
 **5 .Relation between Local and Rapid Route journeys**
 
+* from these insight i have found that the Rapid route journeys are more popular than any other mode of service.
+* the peak Servise have a inconsistant ,unpredictability .
+* the school time journeys have a significant peak during the school start and end times, indicating that a large number of students rely on public transport for their daily commute to and from school.
+* the local and rapid route journey has a strong positive corelation , complement each other as part of the same transport system, and changes in total demand affect both at the same time. so no negative correlation between the two services is observed.
+
+
+
+
 I have also created a time series forecasting script and a notebook to help with forecasting.
 where i have analysed the data and chose the best forecasting model for the dataset, which is Sarima because of the seasonality of the data.
 
